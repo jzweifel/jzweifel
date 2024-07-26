@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: You can find me on <a rel="me" href="https://mastodon.zweifel.cloud/@jacob">Mastodon</a>.
